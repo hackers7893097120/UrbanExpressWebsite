@@ -1,0 +1,61 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UrbanExpress</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="favicon.ico" />
+</head>
+<body>
+  <header>
+    <h1>UrbanExpress</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#about">About Us</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact Us</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Ride Smarter. Ride Urban.</h2>
+    <p>Fast, reliable, and comfortable cab service at your fingertips.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+<p>UrbanExpress is committed to providing a premium cab experience. From local rides to airport transfers, we bring convenience to your doorstep.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Local Rides</li>
+      <li>Outstation Trips</li>
+      <li>Airport Transfers</li>
+      <li>Corporate Rides</li>
+      <li>Hotel Booking & Pickup</li>
+      <li>Parcel Delivery</li>
+    </ul>
+</section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: sd.mukkaram786@gmail.com</p>
+    <p>Phone: +91-6300825243</p>
+    <p>Follow us on Instagram:
+      <a href="https://instagram.com/urbanexpress_rides" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="20" />
+        @urbanexpress_rides
+      </a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 UrbanExpress. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
